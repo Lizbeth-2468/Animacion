@@ -14,4 +14,3 @@ Este paso es muy importante, ya que evita que la animación se vea temblorosa o 
 
 
 
-Si quieres, puedo hacerte otra versión **todavía más técnica (como para calificación alta)** o una **más sencilla para explicar rápido en clase** 👍
